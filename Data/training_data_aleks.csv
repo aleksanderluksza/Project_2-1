@@ -1,0 +1,22 @@
+run_id,timestamp,game,trainer_type,max_steps,learning_rate,batch_size,buffer_size,hidden_units,num_layers,os,cpu_model,cpu_cores_physical,cpu_cores_logical,cpu_freq_mhz,ram_total_gb,wall_time_seconds,peak_ram_mb,final_mean_reward,final_step,return_code
+FoodCollector_batch_001,2026-10-09T12:27:04,FoodCollector,ppo,100000,0.0003,64,12000,128,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,12.8,624.7,,,1
+FoodCollector_batch_001,2026-10-09T12:40:15,FoodCollector,ppo,100000,0.0003,1024,10240,256,1,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,337.1,1188.9,0.053,100000,0
+FoodCollector_batch_002,2026-10-09T14:45:53,FoodCollector,ppo,100000,0.0003,1024,10240,256,1,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,7536.2,1175.8,-0.263,100000,0
+FoodCollector_batch_003,2026-10-09T14:59:26,FoodCollector,ppo,250000,0.0003,1024,10240,256,1,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,810.6,1182.3,0.000,250000,0
+FoodCollector_batch_004,2026-10-09T15:13:46,FoodCollector,ppo,250000,0.0003,1024,10240,256,1,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,857.3,1184.5,0.000,250000,0
+FoodCollector_batch_005,2026-10-09T15:42:19,FoodCollector,ppo,500000,0.0003,1024,10240,256,1,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,1711.4,1188.5,22.105,500000,0
+FoodCollector_batch_006,2026-10-09T16:09:09,FoodCollector,ppo,500000,0.0003,1024,10240,256,1,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,1607.6,1186.3,14.842,500000,0
+pyramids_batch_001,2026-10-09T16:02:12,pyramids,ppo,100000,0.0003,128,2048,512,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,183.3,729.0,-1.000,90000,0
+pyramids_batch_002,2026-10-09T16:05:13,pyramids,ppo,100000,0.0003,128,2048,512,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,178.0,733.0,-0.769,90000,0
+pyramids_batch_003,2026-10-09T16:12:38,pyramids,ppo,250000,0.0003,128,2048,512,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,442.9,729.5,-1.000,240000,0
+pyramids_batch_004,2026-10-09T16:19:58,pyramids,ppo,250000,0.0003,128,2048,512,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,437.8,722.9,-1.000,240000,0
+pyramids_batch_005,2026-10-09T16:34:41,pyramids,ppo,500000,0.0003,128,2048,512,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,880.8,729.4,-1.000,480000,0
+pyramids_batch_006,2026-10-09T16:49:09,pyramids,ppo,500000,0.0003,128,2048,512,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,866.1,740.7,-0.837,480000,0
+sorter_batch_001,2026-10-09T17:18:00,sorter,ppo,100000,0.0003,512,40960,128,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,270.2,1113.6,-0.604,100000,0
+sorter_batch_002,2026-10-09T17:22:30,sorter,ppo,100000,0.0003,512,40960,128,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,268.2,1261.3,-0.767,100000,0
+sorter_batch_003,2026-10-09T17:33:57,sorter,ppo,250000,0.0003,512,40960,128,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,684.5,1124.9,-1.045,250000,0
+sorter_batch_004,2026-10-09T17:45:19,sorter,ppo,250000,0.0003,512,40960,128,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,680.3,1125.4,-0.904,250000,0
+sorter_batch_005,2026-10-09T18:07:57,sorter,ppo,500000,0.0003,512,40960,128,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,1355.6,1137.2,-0.710,500000,0
+sorter_batch_006,2026-10-09T18:30:41,sorter,ppo,500000,0.0003,512,40960,128,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,1361.5,1129.6,-1.243,500000,0
+3DBall_batch_001,2026-10-09T18:36:39,3DBall,ppo,100000,0.0003,64,12000,128,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,66.4,540.4,,,1
+3dball_batch_001,2026-10-09T18:40:36,3dball,ppo,100000,0.0003,64,12000,128,2,Windows 10,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",4,8,1805.0,31.4,64.9,539.8,,,1
